@@ -1,1 +1,1 @@
-product of series
+factors of a natural number
