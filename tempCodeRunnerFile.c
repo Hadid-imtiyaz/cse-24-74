@@ -1,1 +1,0 @@
-factors of a natural number
