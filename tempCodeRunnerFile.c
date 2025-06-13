@@ -1,1 +1,1 @@
-nd transpose of a matrix.
+ind sum of two matrices.
