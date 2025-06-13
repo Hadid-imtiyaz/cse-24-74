@@ -1,0 +1,1 @@
+nd transpose of a matrix.
