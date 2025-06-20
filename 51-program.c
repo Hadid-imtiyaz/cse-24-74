@@ -15,7 +15,7 @@ int main()
     scanf("%d",&x);
     for(i=0;i<n;i++)
     {
-        if(x==a[i])
+        if(x==a[i]) 
         {
             printf("found at position %d\n",i+1);
             flag=1;
