@@ -1,1 +1,1 @@
-Demonstrate use of pointers in programming.
+Check if a string is palindrome or not using pointers.
