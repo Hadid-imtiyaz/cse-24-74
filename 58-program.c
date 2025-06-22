@@ -41,7 +41,7 @@ int sarr(int *p, int n)
             if((p+j)>(p+j+1))
             {
                 temp=*(p+j+1);
-                (p+j+1)=(p+j);
+                *(p+j+1)=(p+j);
                 *(p+j)=temp;
         }
     }

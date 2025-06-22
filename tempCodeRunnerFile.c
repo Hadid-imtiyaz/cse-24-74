@@ -1,1 +1,1 @@
-Check if a string is palindrome or not using pointers.
+Sort an integer array using functions and pointers.
